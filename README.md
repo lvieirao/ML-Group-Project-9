@@ -120,4 +120,4 @@ The dataset used for this project is from Kaggle Website.
 <br><br>
 
 This project was developed with the collaboration of <a href="">Allie Baker</a>,
-<a href="">Samuel Louissant</a>,<a href="">Utwej Sai Nalluri</a>and <ahref="">Goutham</a>.
+<a href="">Samuel Louissant</a>,<a href="">Utwej Sai Nalluri</a>and <a href="">Goutham</a>.
