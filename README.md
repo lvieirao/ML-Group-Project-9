@@ -34,7 +34,7 @@ With more people publishing data onto the internet in the form of texts, it beco
 
 ## Data Collection
 The dataset used for this project is from Kaggle Website.
-<li> Reviews from May 1996- July 2014
+<li> Reviews from May 1996 - July 2014
 <li> Each reviewer has at least 5 reviews and each product has at least 5 reviews in this dataset
 <li> Contains a total of 98261910 entries with 10 different columns
   
@@ -94,10 +94,15 @@ The dataset used for this project is from Kaggle Website.
 <hr>
 
 ## Data Preprocessing
+<li> Converted reviewTime column type to date
+<li> Removed punctuation
+<li> Removed stopwords 
 <hr>
 
 ## Data Modeling
-
+### Topic Modeling
+  
+### Sentiment Analysis
 <hr>
 
 ## Data Visualization
