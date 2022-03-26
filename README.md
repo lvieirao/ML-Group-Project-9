@@ -108,7 +108,14 @@ The dataset used for this project is from Kaggle Website.
 <hr>
 
 ## Data Visualization
-
+<h4> Amazon Reviews <h4>
+  <img src="Visualizations/Amazon Review Overtime.png" style="width:400px;height:300px;">
+ 
+  
+  <img src="Visualizations/Distribution of Amazon Kindle Product Ratings.png" style="width:400px;height:300px;">
+<hr>
+<h4> Word Cloud <h4>
+ <img src ="Visualizations/Wordcloud1.jpeg" style="width:600px;height:400px;">
 <hr>
 
 ## Results
