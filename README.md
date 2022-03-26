@@ -97,6 +97,8 @@ The dataset used for this project is from Kaggle Website.
 <li> Converted reviewTime column type to date
 <li> Removed punctuation
 <li> Removed stopwords 
+<li> Lowercase the text
+<li> Perform stemming
 <hr>
 
 ## Data Modeling
