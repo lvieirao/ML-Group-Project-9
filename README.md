@@ -131,11 +131,11 @@ The dataset used for this project is from Kaggle Website.
 <h4> Word Cloud <h4>
  <img src ="Visualizations/Wordcloud of Most Frequent Terms.jpeg" style="width:600px;height:400px;">
 <hr>
-<h4> Sentiment of Consumer Reviews in 2012 <h4> 
-  <img src ="Visualizations/Consumer Reviews 2012.jpeg" style="width:600px;height:400px;">
-<hr>
-<h4> Sentiment of Consumer Reviews in 2013 <h4>
-  <img src ="Visualizations/Consumer Reviews 2013.jpeg" style="width:600px;height:400px;">
+<h4> Sentiment of Consumer Reviews in 2012 and 2013 <h4> 
+  <img src ="Visualizations/Consumer Reviews 2012.jpg" style="width:500px;height:300px;">
+  
+
+  <img src ="Visualizations/Consumer Reviews 2013.jpg" style="width:500px;height:300px;">
 <hr>
 
 ## Conclusion
