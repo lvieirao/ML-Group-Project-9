@@ -123,10 +123,10 @@ The dataset used for this project is from Kaggle Website.
 
 ## Data Visualization
 <h4> Amazon Reviews <h4>
-  <img src="Visualizations/Amazon Review Overtime.png" style="width:400px;height:300px;">
+  <img src="Visualizations/Amazon Review Overtime.png" style="width:500px;height:300px;">
  
   
-  <img src="Visualizations/Distribution of Amazon Kindle Product Ratings.png" style="width:400px;height:300px;">
+  <img src="Visualizations/Distribution of Reviews per Score.png" style="width:500px;height:300px;">
 <hr>
 <h4> Word Cloud and Distribution of Reviews <h4>
  <img src ="Visualizations/Wordcloud of Most Frequent Terms.jpeg" style="width:500px;height:300px;">
