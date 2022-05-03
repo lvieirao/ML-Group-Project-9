@@ -98,14 +98,28 @@ The dataset used for this project is from Kaggle Website.
 <li> Removed punctuation
 <li> Removed stopwords 
 <li> Lowercase the text
-<li> Perform stemming
+<li> Text Tokenization
+<li> Apply Lemmatization
 <hr>
 
 ## Data Modeling
-### Topic Modeling
+### Bernoulli Naive Bayes
+<li> This algorithm works well and faster to predict the class of the dataset
+<li> Accuracy was 88%
+<li> Precision of 64% with the negative sentiments and 92% with the positive sentiments 
+<li> ROC, the area under the curve, is 74%, and a higher area means the model is better at classifying
   
-### Sentiment Analysis
-<hr>
+### Support Vector Machine (SVC)
+<li> Predicts a binary outcome based on a set of independent variables
+<li> Accuracy was 92%
+<li> Precision of 80% with the negative sentiments and 94% with the positive sentiments 
+<li> ROC, the area under the curve, is 80%
+  
+### Logistic Regression
+<li> An algorithm used for both classification and regression analysis
+<li> Accuracy was 92%
+<li> Precision of 83% with the negative sentiments and 93% with the positive sentiments 
+<li> ROC, the area under the curve, is 79%
 
 ## Data Visualization
 <h4> Amazon Reviews <h4>
@@ -115,18 +129,22 @@ The dataset used for this project is from Kaggle Website.
   <img src="Visualizations/Distribution of Amazon Kindle Product Ratings.png" style="width:400px;height:300px;">
 <hr>
 <h4> Word Cloud <h4>
- <img src ="Visualizations/Wordcloud1.jpeg" style="width:600px;height:400px;">
+ <img src ="Visualizations/.jpeg" style="width:600px;height:400px;">
 <hr>
-
-## Results
-  
+<h4> Sentiment of Consumer Reviews in 2012 <h4> 
+  <img src ="Visualizations/.jpeg" style="width:600px;height:400px;">
 <hr>
-
-## Challenges and Future Work
-  
+<h4> Sentiment of Consumer Reviews in 2013 <h4>
+  <img src ="Visualizations/.jpeg" style="width:600px;height:400px;">
 <hr>
 
 ## Conclusion
+Overall, the three classification models perform well, but the SVM Linear SVC model had the best performance for the sentiment analysis of the Amazon Kindle Store review dataset. SVM and Logistic Regression had the best accuracy, but F1 score would be a better accuracy measure since it takes recall and precision into its calculation and ideally a good classifier has a good recall and precision measure. So, the F1 score for classifying negatives was highest for SVM, and for classifying positives SVM and Logistic Regression both had the best. Regarding the area under the curve (ROC), SVM model also had the best measure. 
+<hr>
+
+## Challenges and Future Work
+From our limited experience with NLP and data preprocessing in Python, something we could do in the future is to improve our data to have a balance between the amount of positive and negative reviews. Two other topics that could be added to our analysis would be topic modeling to find topics with similar terms, and fake reviews to train the model to detect text might be fake since we have too many positive reviews.
+  
 <hr>
 
 ## References 
