@@ -128,8 +128,10 @@ The dataset used for this project is from Kaggle Website.
   
   <img src="Visualizations/Distribution of Amazon Kindle Product Ratings.png" style="width:400px;height:300px;">
 <hr>
-<h4> Word Cloud <h4>
- <img src ="Visualizations/Wordcloud of Most Frequent Terms.jpeg" style="width:600px;height:400px;">
+<h4> Word Cloud and Distribution of Reviews <h4>
+ <img src ="Visualizations/Wordcloud of Most Frequent Terms.jpeg" style="width:500px;height:300px;">
+  
+<img src ="Visualizations/Distribution of Reviews.jpeg" style="width:500px;height:300px;">
 <hr>
 <h4> Sentiment of Consumer Reviews in 2012 and 2013 <h4> 
   <img src ="Visualizations/Consumer Reviews 2012.jpg" style="width:500px;height:300px;">
