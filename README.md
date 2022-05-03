@@ -131,7 +131,7 @@ The dataset used for this project is from Kaggle Website.
 <h4> Word Cloud and Distribution of Reviews <h4>
  <img src ="Visualizations/Wordcloud of Most Frequent Terms.jpeg" style="width:500px;height:300px;">
   
-<img src ="Visualizations/Distribution of Reviews.jpg" style="width:500px;height:300px;">
+<img src ="Visualizations/Distribution of Reviews.png" style="width:500px;height:300px;">
 <hr>
 <h4> Sentiment of Consumer Reviews in 2012 and 2013 <h4> 
   <img src ="Visualizations/Consumer Reviews 2012.jpg" style="width:500px;height:300px;">
