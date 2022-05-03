@@ -134,5 +134,5 @@ The dataset used for this project is from Kaggle Website.
 
 <br><br>
 
-This project was developed with the collaboration of <a href="https://github.com/ABaker91">Allie Baker</a>,
-<a href="https://github.com/SamL153">Samuel Louissaint</a>, <a href="https://github.com/Utwejsai">Utwej Sai Nalluri</a> and <a href=""> Goutham</a>.
+This project was developed with the collaboration of <a href="https://github.com/ABaker91">Allie Baker</a> and
+<a href="https://github.com/SamL153">Samuel Louissaint</a>.
