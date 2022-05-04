@@ -149,8 +149,10 @@ From our limited experience with NLP and data preprocessing in Python, something
   
 <hr>
 
-## References 
-<li> https://www.kaggle.com/bharadwaj6/kindle-reviews
+## Tools 
+<li> Jupyter Notebook
+<li> R
+<li> Tableau
 
 <br><br>
 
