@@ -143,8 +143,6 @@ The dataset used for this project is from Kaggle Website.
 ## Conclusion
 Overall, the three classification models perform well, but the SVM Linear SVC model had the best performance for the sentiment analysis of the Amazon Kindle Store review dataset. SVM and Logistic Regression had the best accuracy, but F1 score would be a better accuracy measure since it takes recall and precision into its calculation and ideally a good classifier has a good recall and precision measure. So, the F1 score for classifying negatives was highest for SVM, and for classifying positives SVM and Logistic Regression both had the best. Regarding the area under the curve (ROC), SVM model also had the best measure. 
 <hr>
-
-<hr>
   
 ## Experiments
 <li> Topic Modeling and LDA
